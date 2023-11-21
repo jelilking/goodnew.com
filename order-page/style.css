@@ -150,10 +150,8 @@ button {
 } */
 
 .footer img {
-
-    width: 100%;
-    height: auto;
-  
+  width: 100%;
+  height: auto;
 }
 @media (max-width: 1000px) {
   .content {
@@ -162,7 +160,7 @@ button {
   .container h1 {
     text-align: center;
   }
-  iframe{
+  iframe {
     margin: 30px 0;
   }
 }
@@ -173,7 +171,7 @@ button {
   .container h1 {
     text-align: center;
   }
-  iframe{
+  iframe {
     margin: 30px 0;
   }
 }
@@ -194,8 +192,7 @@ button {
   .container h1 {
     text-align: center;
   }
-  .footer iframe{
+  .footer iframe {
     margin: 30px 0;
   }
 }
-
